@@ -8,8 +8,4 @@ You can reach me via my:
     * Email: [ceboadiaye@gmail.com]
     * Facebook:[Charity Eboadiaye]
     Fun fact
-I love singing, I enjoy learning new languages, and I am relaxed when reading.
-
-Charityoe/Charityoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love singing, I enjoy learning new languages, and I am relaxed when reading
